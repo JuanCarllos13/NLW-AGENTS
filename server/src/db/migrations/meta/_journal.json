@@ -8,6 +8,13 @@
       "when": 1752099427094,
       "tag": "0000_hot_blob",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752181046119,
+      "tag": "0001_elite_namor",
+      "breakpoints": true
     }
   ]
 }
